@@ -27,6 +27,14 @@ body,
 	height: 25px;
 	color: #008080;
 }
+.ct-p {
+	font: "Comic Sans MS";
+	width: 100%;
+}
+
+.p_ct{
+	border: 3px solid teal;
+}
 
 table,
 
