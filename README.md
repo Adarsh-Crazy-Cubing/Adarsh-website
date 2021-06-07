@@ -1,5 +1,5 @@
-# Adarsh-Scratcher
-- Hi, I’m @Adarsh-Scratcher
+# Adarsh
+- Hi, I’m @Adarsh
 - I’m interested in coding
 - I’m currently learning HTML, CSS and JavaScript
 - Reach me via gmail-
