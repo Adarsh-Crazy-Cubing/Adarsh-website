@@ -27,9 +27,13 @@ body,
 	height: 25px;
 	color: #008080;
 }
-.ct-p {
+.p-ct {
 	font: "Comic Sans MS";
 	width: 100%;
+}
+.class_white {
+	color:rgb(255, 255, 255);
+	background-color:blue;
 }
 
 .p_ct{
