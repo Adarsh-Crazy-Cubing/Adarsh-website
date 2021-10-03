@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" href="style.css">
+    <title> Registration form </title>
+	<script src='javascript.js'> </script>
+</head>
+  
+<body>
+
+<header class="header">
+  
+<h1>Adarsh website</h1>
+
+<table>
+ <tr>
+  <td><h3> <a target="_parent" href="about me.html" class='link_header'>About me</a> </h3>
+  <td><h3> <a target="_parent" href="adarsh.htm" class='link_header'>Registration form</a> </h3>
+ </tr>
+</table>
+
+<h3>Add your details</h3>
+
+</header>
+
+<form action="your_details.html" method="post" target="_blank">
+    <fieldset>
+	  
+      <legend>Personal Info</legend><br>
+	  
+      <label for="name">Enter your name:</label><br> 
+      <input type="text" name="name" id="name"/><br><br>
+	  
+      <label for="email">Email address:</label><br>
+      <input type="email" id="email" name="email"/><br><br>
+
+      <label for="gender">Gender:</label><br>
+      <input type="radio" value="Male" name="gender" id="gender"/>Male<br>
+      <input type="radio" value="Female" name="gender" id="gender"/>Female<br>
+      <input type="radio" value="Other" name="gender" id="gender"/>Other<br><br>
+
+      <label for="class">Select your Class:</label><br>
+      <select>
+        <option value="primsch" id="class" name="class">PRIMARY</option>
+        <option value="midsch" id="class" name="class">MIDDLE SCHOOL</option>
+        <option value="secsch" id="class" name="class">SECONDARY</option>
+		<option value="college" id="class" name="class">COLLEGE</option>
+      </select><br><br>
+	  
+	  <label for="favcolor">Select your favorite color:</label><br>
+      <input type="color" id="favcolor" name="favcolor" value="#ff0000"><br><br>
+	  
+	  <label for="birthday">Date Of Birth (DOB):</label><br>
+      <input type="date" id="birthday" name="birthday"><br><br>
+	  
+	  <input type="submit" value="Submit">
+	   
+     </fieldset>
+	
+</form>
+ 
+</body>
+
+</html>

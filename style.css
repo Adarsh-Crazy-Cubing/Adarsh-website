@@ -1,0 +1,48 @@
+<style>
+
+#highlight {
+  color:#FFD700;
+  background: rgb(100,149,237);
+  /* #FF0000; rgb(255,0,0); red */
+  /* #00FF00; rgb(0,255,0); green */
+  /* #0000FF; rgb(0,0,255); blue */
+}
+
+body,
+
+.font {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+	border
+}
+
+.center {
+	text-align: center;
+	width: 100%;
+	height: 25px;
+	color: #008080;
+}
+
+.my-p {
+	font-family: "Comic Sans MS", Comic Sans, cursive;
+	width: 100%;
+	height: 25px;
+	color: #008080;
+}
+
+table, td{
+	border: 2px solid black;
+	
+}
+
+.header {
+	background-color:#99ccff;
+	border:1 px solid black;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+    
+}
+
+</style>
